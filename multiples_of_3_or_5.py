@@ -1,3 +1,5 @@
+# Link to task: https://projecteuler.net/problem=1
+
 UPBOUND = 1000
 
 print(
