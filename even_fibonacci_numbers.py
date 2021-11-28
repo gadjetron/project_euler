@@ -1,3 +1,5 @@
+# Link to task: https://projecteuler.net/problem=2
+
 UPBOUND = 4000000
 
 fibonacci_numbers = []
